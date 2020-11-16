@@ -17,6 +17,7 @@ function App() {
         >
           Hello world!
         </a>
+        <p>Welcome to Codaisseur.</p>
       </header>
       <h1>Wow!</h1>
     </div>
